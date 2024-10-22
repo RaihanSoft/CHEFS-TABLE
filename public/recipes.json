@@ -1,0 +1,95 @@
+{
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_image": "https://random.imagecdn.app/500/300",
+        "recipe_name": "Grilled Chicken with Basil",
+        "short_description": "A delicious grilled chicken with basil and soy sauce.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g basil leaf",
+          "100 g garlic",
+          "2 tbsp olive oil"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_image": "https://random.imagecdn.app/500/301",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A creamy and rich spaghetti carbonara with pancetta.",
+        "ingredients": [
+          "200 g spaghetti",
+          "150 g pancetta",
+          "2 eggs",
+          "100 g parmesan cheese",
+          "50 g black pepper"
+        ],
+        "preparing_time": "25 min",
+        "calories": "400 calories"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_image": "https://random.imagecdn.app/500/302",
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A colorful vegetable stir-fry with a light soy sauce.",
+        "ingredients": [
+          "200 g broccoli",
+          "150 g carrots",
+          "100 g bell peppers",
+          "2 tbsp soy sauce",
+          "50 g sesame seeds"
+        ],
+        "preparing_time": "20 min",
+        "calories": "220 calories"
+      },
+      {
+        "recipe_id": 4,
+        "recipe_image": "https://random.imagecdn.app/500/303",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Classic beef tacos with fresh salsa and guacamole.",
+        "ingredients": [
+          "300 g ground beef",
+          "6 taco shells",
+          "100 g cheddar cheese",
+          "50 g lettuce",
+          "100 g salsa"
+        ],
+        "preparing_time": "35 min",
+        "calories": "450 calories"
+      },
+      {
+        "recipe_id": 5,
+        "recipe_image": "https://random.imagecdn.app/500/304",
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy risotto with mushrooms and parmesan cheese.",
+        "ingredients": [
+          "300 g arborio rice",
+          "200 g mushrooms",
+          "100 g parmesan cheese",
+          "50 g onions",
+          "100 ml white wine"
+        ],
+        "preparing_time": "40 min",
+        "calories": "380 calories"
+      },
+      {
+        "recipe_id": 6,
+        "recipe_image": "https://random.imagecdn.app/500/305",
+        "recipe_name": "Grilled Salmon",
+        "short_description": "A simple grilled salmon with lemon and herbs.",
+        "ingredients": [
+          "2 salmon fillets",
+          "50 ml lemon juice",
+          "30 g dill",
+          "2 tbsp olive oil",
+          "100 g asparagus"
+        ],
+        "preparing_time": "25 min",
+        "calories": "300 calories"
+      }
+    ]
+  }
+  
